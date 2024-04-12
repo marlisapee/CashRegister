@@ -97,6 +97,9 @@ console.log(sumDrawer(drawer));
 - canMakeAmount(target, drawer): Determines whether it is possible to create a specific cash amount from the items in the drawer.
  */
 
+const canMakeAmount = (target, drawer) => {
+    
+}
 
 
 
